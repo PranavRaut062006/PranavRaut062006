@@ -43,7 +43,7 @@ I am a **Computer Science & AI Engineer** at **VIT, Pune**, enjoying problem sol
 ## 🌐 Full Stack Development
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,react,angular,vite,tailwind,nodejs,express,javascript" />
+<img src="https://skillicons.dev/icons?i=html,css,react,angular,vite,tailwind,nodejs,express,javascript,spring" />
 </p>
 
 **Spring Boot • Hibernate • JDBC • FastAPI • Flask**
