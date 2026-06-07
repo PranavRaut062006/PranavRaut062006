@@ -4,7 +4,7 @@
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=42&pause=1500&color=F7D733&center=true&vCenter=true&width=1000&height=80&lines=Building+that+matters;AI%2FML;Spring+Boot;JS+Frameworks;Full+Stack+Web+Development;Deep+Learning+%2B+OpenCV;IoT+%2B+Web%2FApp+Integrations" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=42&pause=1500&color=FF8C00&center=true&vCenter=true&width=1000&height=80&lines=Building+that+matters;AI%2FML;Spring+Boot;JS+Frameworks;Full+Stack+Web+Development;Deep+Learning+%2B+OpenCV;IoT+%2B+Web%2FApp+Integrations" alt="Typing SVG" />
 
 <br><br>
 
@@ -96,7 +96,6 @@ I am a **Computer Science & AI Engineer** at **VIT, Pune**, enjoying problem sol
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=PranavRaut062006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=PranavRaut062006&theme=tokyonight&hide_border=true&background=00000000" />
 
@@ -111,8 +110,6 @@ I am a **Computer Science & AI Engineer** at **VIT, Pune**, enjoying problem sol
 # 🧩 Activity Stream
 
 <div align="center">
-
-<img width="95%" src="https://github-contributor-stats.vercel.app/api?username=PranavRaut062006&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 
 <br><br>
 
