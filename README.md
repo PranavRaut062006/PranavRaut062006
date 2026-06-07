@@ -1,20 +1,235 @@
-<h1 align="center">Hi 👋, I'm Pranav Raut</h1>
-<h3 align="center">I love building meaningful products, solving complex problems, and continuously exploring new technologies and tech stacks to expand my skills.</h3>
+<div align="center">
 
-- 🔭 I’m currently working on **NLP Industry Project - Nature tek Solar chatbot**
+# 🚀 Pranav Raut
 
-- 🌱 I’m currently learning **Spring and Spring boot**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Full+Stack+AI+Developer;AI+%7C+Web+%7C+IoT+Engineer;Building+Intelligent+Systems;Computer+Engineering+Student" />
 
-- 👯 I’m looking to collaborate on **AI projects, java backend, JS frameworks**
+<br>
 
-- 📫 How to reach me **raut.ps2006@gmail.com**
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
-<h3 align="left">Connect with me:</h3>
+</div>
+
+---
+
+## 🌟 About Me
+
+```yaml
+Name: Pranav Raut
+Role: Full Stack AI Developer
+Education: Computer Engineering
+Focus:
+  - Artificial Intelligence
+  - Full Stack Development
+  - IoT Systems
+  - Computer Vision
+  - RAG Applications
+
+Mission:
+  Building intelligent software that solves
+  real-world problems using AI + Web + IoT.
+```
+
+---
+
+# 🛠 Tech Universe
+
+## 💻 Languages
+
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pranav-raut-9b6710335/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pranav-raut-9b6710335/" height="30" width="40" /></a>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PranavRaut062006&show_icons=true&locale=en&layout=compact" alt="pranavraut062006" /></p>
+## 🎨 Frontend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,react,angular,vite,tailwind" />
+</p>
+
+---
+
+## ⚙️ Backend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,fastapi,flask" />
+</p>
+
+### Additional Backend Technologies
+
+```text
+Hibernate
+JDBC
+REST APIs
+Microservices
+```
+
+---
+
+## 🤖 AI / Machine Learning
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+```text
+Scikit-Learn
+NumPy
+Pandas
+Matplotlib
+Supervised Learning
+Unsupervised Learning
+Computer Vision
+RAG Pipelines
+```
+
+---
+
+## 📡 IoT & Hardware
+
+```text
+Arduino
+ESP32
+Raspberry Pi
+Sensor Integration
+Android/Web App Integration
+Embedded Systems
+```
+
+---
+
+## 🗄 Databases
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+</p>
+
+---
+
+## ☁️ Cloud & DevOps
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify" />
+</p>
+
+```text
+Google Colab
+Deployment Pipelines
+CI/CD Basics
+```
+
+---
+
+## 🧰 Tools & IDEs
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=vscode,idea,git,github" />
+</p>
+
+```text
+Jupyter Notebook
+IntelliJ IDEA
+VS Code
+Git
+GitHub
+```
+
+---
+
+## 📚 Core Computer Science
+
+```text
+Data Structures & Algorithms (DSA)
+Object-Oriented Programming (OOP)
+Database Management Systems (DBMS)
+Computer Networks
+Data Communications
+Operating Systems
+Software Engineering
+```
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Domain | Tech |
+|----------|---------|---------|
+| 🧠 LegalAid AI | Voice AI + RAG | FastAPI, LLM, Vector DB |
+| 👁️ DesertLens AI | Computer Vision | PyTorch, OpenCV |
+| 🎓 CareerAI | AI Career Assistant | RAG, React, Node |
+| 🪖 Smart Helmet | IoT & Safety | Arduino, Sensors |
+| 🌾 Smart Farming | IoT + ML | ESP32, Python |
+| 📊 Analytics Dashboard | Full Stack | React, Node, MongoDB |
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📊 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" />
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="mailto:yourmail@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_LINK">
+<img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ "Turning Ideas Into Intelligent Products"
+
+</div>
