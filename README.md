@@ -12,7 +12,6 @@
 ![](https://img.shields.io/badge/📍-PUNE-black?style=for-the-badge)
 ![](https://img.shields.io/badge/🌏-INDIA-1f2937?style=for-the-badge)
 ![](https://img.shields.io/badge/🎓-VIT-0f172a?style=for-the-badge)
-![](https://img.shields.io/badge/🏙️-PUNE-1f2937?style=for-the-badge)
 
 </div>
 
