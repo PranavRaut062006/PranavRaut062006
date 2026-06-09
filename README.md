@@ -4,7 +4,7 @@
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=42&pause=1500&color=FF8C00&center=true&vCenter=true&width=1000&height=80&lines=Building+that+matters;AI%2FML;Spring+Boot;JS+Frameworks;Full+Stack+Web+Development;Deep+Learning+%2B+OpenCV;IoT+%2B+Web%2FApp+Integrations" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=42&pause=1500&color=FF8C00&center=true&vCenter=true&width=1000&height=80&lines=Always+learning+Always+building;AI%2FML;Spring+Boot;JS+Frameworks;Full+Stack+Web+Development;Deep+Learning+%2B+OpenCV;IoT+%2B+Web%2FApp+Integrations" alt="Typing SVG" />
 
 <br><br>
 
