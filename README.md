@@ -122,7 +122,7 @@ I am a **Computer Science & AI Engineer** at **VIT, Pune**, enjoying problem sol
 
 <div align="center">
 
-<a href="mailto:raut.ps2006@gmail.com">
+<a href="raut.ps2006@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
